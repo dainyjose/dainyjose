@@ -8,7 +8,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      
+        with:
+          persist-credentials: false  # ensures correct auth for push
+
       - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
@@ -25,5 +27,6 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add README.md
-          git commit -m "Update Dev.to articles" || echo "No changes to commit"
+          # Commit only if changes exist
+          git diff --cached --quiet || git commit -m "Update Dev.to articles"
           git push
