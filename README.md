@@ -1,7 +1,4 @@
-![Banner](https://raw.githubusercontent.com/dainyjose/assets/main/github-banner.png)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dainyjose/assets/main/github-banner.png" alt="GitHub Banner" width="100%" />
-</p>
+![Banner](https://raw.githubusercontent.com/dainyjose/dainyjose/main/assets/CP.jpeg)
 
 # 👋 Hi, I'm Dainy Jose 
 
