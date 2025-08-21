@@ -66,10 +66,14 @@ Jyoti Nivas Autonomous College, Bangalore
 🎓 Bachelor of Science (B.Sc.) in Mathematics
 Providence Women’s College, Calicut
 
-🎯 What I Deliver
+### 🎯 What I Deliver
+
 ✅ Cross-platform apps with smooth UI/UX
+
 ✅ Secure authentication, real-time notifications, and payment systems
+
 ✅ Full-stack development using modern tools and clean code
+
 ✅ Agile collaboration and timely delivery
 
 ---
@@ -117,16 +121,6 @@ Providence Women’s College, Calicut
 </div>
 
 ---
-## 📊 GitHub Stats  
-
-<div align="center">
-  
-   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dainyjose&theme=tokyonight&hide_border=true)](https://github.com/dainyjose)
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dainyjose&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  
-
-  ![Dainy's GitHub stats](https://github-readme-stats.vercel.app/api?username=dainyjose&show_icons=true&theme=tokyonight&hide_border=true)  
-
-</div>
-
+<!-- DEVTO-START -->
+<!-- DEVTO-END -->
 ---
