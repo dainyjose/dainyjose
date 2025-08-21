@@ -120,7 +120,4 @@ Providence Women’s College, Calicut
   </a>
 </div>
 
----
-<!-- DEVTO-START -->
-<!-- DEVTO-END -->
----
+
