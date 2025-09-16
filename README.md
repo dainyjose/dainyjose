@@ -21,7 +21,7 @@
 
 ## 🚀 Hybrid App & Full-Stack Developer | React Native & MERN Stack
 
-I’m a passionate Mobile & Web Developer with over 2 years of hands-on experience building scalable, cross-platform applications using React Native, TypeScript, React.js, Node.js, MongoDB, and more.
+I’m a passionate Mobile & Web Developer with 3 years of hands-on experience building scalable, cross-platform applications using React Native, TypeScript, React.js, Node.js, MongoDB, and more.
 I specialize in hybrid app development and full-stack web applications, delivering solutions with clean code, efficient architecture, and a great user experience.
 
 🧩 Core Expertise
