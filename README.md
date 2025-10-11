@@ -105,9 +105,6 @@ Providence Women’s College, Calicut
 <a href="https://bun.sh/" target="_blank" title="Bun"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="Bun" /></a>
 <a href="https://bitbucket.org/" target="_blank" title="Bitbucket"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width="40" alt="Bitbucket" /></a>
 <a href="https://www.postman.com/" target="_blank" title="Postman"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" alt="Postman" /></a>
-   
------------
-   
 <a href="https://www.atlassian.com/software/jira" target="_blank" title="Jira"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" alt="Jira" /></a>
 <a href="https://www.figma.com/" target="_blank" title="Figma"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma" /></a>
 <a href="https://www.docker.com/" target="_blank" title="Docker"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" /></a>
