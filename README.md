@@ -1,7 +1,10 @@
+# 👋 Hi, I'm Dainy Jose
+
 ![Banner](https://raw.githubusercontent.com/dainyjose/dainyjose/main/assets/CP.jpeg)
 
-# 👋 Hi, I'm Dainy Jose 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23A020F0&center=true&vCenter=true&width=750&duration=3000&pause=1000&lines=Hi+there+👋,+I'm+Dainy+Jose!;Welcome+to+My+GitHub+Profile!;Hybrid+App+%26+Full-Stack+Developer+%7C+React+Native+%26+MERN+Stack;Always+learning+and+building+something+new!;Research+~+Architect+~+Develop+~+Validate+~+Deploy)](https://git.io/typing-svg)
 
+---
 
    #### Mobile App Dev | MERN Stack | React Native | TypeScript | Redux | React.js | Node.js | MongoDB | MySQL | Express.js | REST API | JWT | Google Maps | Firebase | Jest | Agile | SDLC | Payments | Git | Bitbucket | Jira
 
