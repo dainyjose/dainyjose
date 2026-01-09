@@ -18,6 +18,7 @@
 [![Dev.to](https://img.shields.io/badge/-Dev.to-000000?style=flat&logo=dev.to&logoColor=white)](https://dev.to/dainy_jose)
 [![Email](https://img.shields.io/badge/Email-000000?style=flat&logo=gmail&logoColor=white)](mailto:dainyjose.mary@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/dainyjose)
+![Profile Views](https://komarev.com/ghpvc/?username=dainyjose&label=Profile_Views&color=A020F0&style=flat-square)
 
 </div>
 
@@ -145,4 +146,8 @@ A showcase of my professional work — featuring hybrid mobile apps, full-stack 
 - [Understanding Google Play’s 16 KB Page Size Requirement for Android Apps](https://dev.to/dainyjose/understanding-google-plays-16-kb-page-size-requirement-for-android-apps-phd)  
 - [Troubleshooting 16 KB Page Size Issues](https://dev.to/dainyjose/troubleshooting-16-kb-page-size-issues-2pfe)  
 
+---
+<p align="center">
+  <b>Thanks for visiting! 🌱 Keep coding and stay creative.</b>
+</p>
 
