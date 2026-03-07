@@ -6,8 +6,7 @@
 
 ---
 
-   #### Mobile App Dev | MERN Stack | React Native | TypeScript | Redux | React.js | Node.js | MongoDB | MySQL | Express.js | REST API | JWT | Google Maps | Firebase | Jest | Agile | SDLC | Payments | Git | Bitbucket | Jira
-
+#### React Native Mobile Developer | TypeScript | Expo Bare Workflow | MERN Stack
 
    ---
 
@@ -25,25 +24,39 @@
 
 ------
 
-## 🚀 Hybrid App & Full-Stack Developer | React Native & MERN Stack
+## 👨‍💻 React Native Mobile Developer | Full-Stack (MERN)
 
-I’m a passionate Mobile & Web Developer with 3 years of hands-on experience building scalable, cross-platform applications using React Native, TypeScript, React.js, Node.js, MongoDB, and more.
-I specialize in hybrid app development and full-stack web applications, delivering solutions with clean code, efficient architecture, and a great user experience.
+I’m a React Native Mobile Application Developer with 3+ years of experience building scalable cross-platform Android and iOS applications using React Native, TypeScript, and the Expo Bare workflow.
+
+My work focuses on building production-ready mobile apps with clean architecture, secure integrations, and strong performance. I have experience integrating real-world features such as payments, maps, notifications, authentication, and analytics.
+
+Alongside mobile development, I also build backend services and APIs using the MERN stack for POCs, integrations, and personal projects.
 
 🧩 Core Expertise
-📱 Hybrid App Development: React Native, Expo, Android/iOS support
 
-📍 Maps & Location: Google Maps, Autocomplete
+📱 Mobile Development  
+React Native, TypeScript, Expo Bare Workflow, Android & iOS
 
-🔔 Notifications: Local & Push (Notifee, FCM)
+📍 Maps & Location  
+Google Maps, Places API, Autocomplete
 
-💳 Payment Integrations: Razorpay, PayU
+🔔 Notifications  
+Push & Local Notifications (Firebase FCM, Notifee)
 
-🔐 Authentication: Google, Apple Sign-In, JWT
+💳 Payment Integrations  
+Razorpay, PayU
 
-🧪 Testing & Deployment: Jest, internal testing, TestFlight, Play Console
+🔐 Authentication  
+Google Sign-In, Apple Sign-In, JWT
 
-🗄️ State Management: Redux, Context API, reusable components & custom hooks
+📊 Monitoring & Analytics  
+Firebase Crashlytics, Firebase Analytics
+
+🚀 App Deployment  
+Google Play Console, App Store Connect, TestFlight, Internal Testing
+
+🗄️ State Management  
+Redux, Context API, Custom Hooks, Reusable Components
 
 🌐 Web & Backend Development
 💻 Frontend: React.js, HTML/CSS, JavaScript, Vite
