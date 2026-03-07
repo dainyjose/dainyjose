@@ -2,7 +2,7 @@
 
 ![Banner](https://raw.githubusercontent.com/dainyjose/dainyjose/main/assets/CP.jpeg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23A020F0&center=true&vCenter=true&width=750&duration=3000&pause=1000&lines=Hi+there+👋,+I'm+Dainy+Jose!;Welcome+to+My+GitHub+Profile!;Hybrid+App+%26+Full-Stack+Developer+%7C+React+Native+%26+MERN+Stack;Always+learning+and+building+something+new!;Research+~+Architect+~+Develop+~+Validate+~+Deploy)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23A020F0&center=true&vCenter=true&width=750&duration=3000&pause=1000&lines=Hi+there+👋,+I'm+Dainy+Jose!;Welcome+to+My+GitHub+Profile!;React+Native+Mobile+Developer+%7C+TypeScript+%7C+Expo+Bare+Workflow;Building+Scalable+Android+%26+iOS+Applications;Research+~+Architect+~+Develop+~+Validate+~+Deploy)](https://git.io/typing-svg)
 
 ---
 
