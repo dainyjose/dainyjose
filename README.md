@@ -67,7 +67,7 @@ Alongside mobile development, I build backend services and APIs using the MERN s
 - Jira / Trello
 - Agile & SDLC
 - npm / Bun
-- 
+
 ---
 
 ## Education
