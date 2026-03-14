@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Dainy Jose
+### React Native Mobile Application Developer
 
 ![Banner](https://raw.githubusercontent.com/dainyjose/dainyjose/main/assets/CP.jpeg)
 
@@ -6,9 +7,10 @@
 
 ---
 
-#### React Native Mobile Developer | TypeScript | Expo Bare Workflow | MERN Stack
+#### React Native Developer | TypeScript | Expo Bare Workflow | MERN Stack
+Building scalable Android & iOS applications.
 
-   ---
+---
 
 <div align="center">
 
@@ -30,62 +32,55 @@ I’m a React Native Mobile Application Developer with 3+ years of experience bu
 
 My work focuses on building production-ready mobile apps with clean architecture, secure integrations, and strong performance. I have experience integrating real-world features such as payments, maps, notifications, authentication, and analytics.
 
-Alongside mobile development, I also build backend services and APIs using the MERN stack for POCs, integrations, and personal projects.
+Alongside mobile development, I build backend services and APIs using the MERN stack for integrations, POCs, and personal projects.
 
-🧩 Core Expertise
+## Core Expertise
 
-📱 Mobile Development  
-React Native, TypeScript, Expo Bare Workflow, Android & iOS
+### Mobile Development
+- React Native
+- TypeScript
+- Expo Bare Workflow
+- Android & iOS Development
+- Redux, Context API, Custom Hooks
+- Reusable Component Architecture
 
-📍 Maps & Location  
-Google Maps, Places API, Autocomplete
+### Backend & APIs
+- Node.js
+- Express.js
+- REST API Development
+- JWT Authentication
+- API Integrations
 
-🔔 Notifications  
-Push & Local Notifications (Firebase FCM, Notifee)
+### Cloud & Deployment
+- Firebase (Crashlytics, Analytics, FCM)
+- Netlify
+- Heroku
+- GitHub Pages
+- Cloudflare
 
-💳 Payment Integrations  
-Razorpay, PayU
+### Databases
+- MongoDB
+- MySQL
 
-🔐 Authentication  
-Google Sign-In, Apple Sign-In, JWT
+### DevOps & Workflow
+- Git & Bitbucket
+- Jira / Trello
+- Agile & SDLC
+- npm / Bun
+- 
+---
 
-📊 Monitoring & Analytics  
-Firebase Crashlytics, Firebase Analytics
+## Education
 
-🚀 App Deployment  
-Google Play Console, App Store Connect, TestFlight, Internal Testing
-
-🗄️ State Management  
-Redux, Context API, Custom Hooks, Reusable Components
-
-🌐 Web & Backend Development
-💻 Frontend: React.js, HTML/CSS, JavaScript, Vite
-
-🔙 Backend: Node.js, Express.js
-
-🗃️ Database: MongoDB, MySQL
-
-☁️ Cloud & Hosting: Firebase, Netlify, Heroku, GitHub Pages
-
-🔐 Security: JWT, Cloudflare
-
-🛠️ DevOps & Workflow
-⚙️ SDLC Best Practices & Agile Methodologies
-
-📋 Project Management: Jira, Trello
-
-🔄 Version Control: Git, Bitbucket
-
-📦 Package Managers: npm, Bun
-
-🎓 Education
-🎓 Master of Computer Applications (MCA)
+**Master of Computer Applications (MCA)**  
 Jyoti Nivas Autonomous College, Bangalore
 
-🎓 Bachelor of Science (B.Sc.) in Mathematics
+**Bachelor of Science (B.Sc.) – Mathematics**  
 Providence Women’s College, Calicut
 
-### 🎯 What I Deliver
+---
+
+### What I Deliver
 
 ✅ Cross-platform apps with smooth UI/UX
 
@@ -97,7 +92,7 @@ Providence Women’s College, Calicut
 
 ---
 
-### ⚡ Tech Stack
+###  Tech Stack
 
 <div align="center">
 <a href="https://reactjs.org/" target="_blank" title="React / React Native"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React / React Native" /></a>
@@ -142,16 +137,31 @@ Providence Women’s College, Calicut
 
 ---
 
-## 🌐 Portfolio
+## GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=dainyjose&show_icons=true&theme=tokyonight" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dainyjose&theme=tokyonight" height="170"/>
+
+</p>
+
+
+
+
+---
+
+##  Portfolio
 
 Check out my personal portfolio to explore my latest projects, case studies, and open-source work:
 
-🎨 **[Visit My Portfolio →](https://dainyjose.github.io/my-portfolio/)**  
+ **[Visit My Portfolio →](https://dainyjose.github.io/my-portfolio/)**  
 A showcase of my professional work — featuring hybrid mobile apps, full-stack web solutions, and open-source projects built with modern technologies like React Native, TypeScript, and MERN Stack.
 
 ---
 
-## 📝 Blog & Articles  
+##  Blog & Articles  
 
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white&style=for-the-badge)](https://dev.to/dainyjose)  
 
@@ -161,6 +171,6 @@ A showcase of my professional work — featuring hybrid mobile apps, full-stack 
 
 ---
 <p align="center">
-  <b>Thanks for visiting! 🌱 Keep coding and stay creative.</b>
+  <b>Thanks for visiting my profile! 🚀 Let's build something amazing.</b>
 </p>
 
