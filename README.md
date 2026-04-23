@@ -175,9 +175,9 @@ Providence Women’s College, Calicut
 
 <br/>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ishandutta2007/snk/output-svg-only/github-contribution-grid-snake.svg" width="80%" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/dainyjose/dainyjose/output/github-contribution-grid-snake-dark.svg" width="80%" />
+</div>
 
 
 <p align="center">
