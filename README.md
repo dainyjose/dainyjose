@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Dainy Jose
-### React Native Mobile Application Developer
+### 🚀 React Native Developer | Building Scalable Mobile & Full-Stack Solutions
 
 ![Banner](https://raw.githubusercontent.com/dainyjose/dainyjose/main/assets/CP.jpeg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23A020F0&center=true&vCenter=true&width=750&duration=3000&pause=1000&lines=Hi+there+👋,+I'm+Dainy+Jose!;Welcome+to+My+GitHub+Profile!;React+Native+Mobile+Developer+%7C+TypeScript+%7C+Expo+Bare+Workflow;Building+Scalable+Android+%26+iOS+Applications;Research+~+Architect+~+Develop+~+Validate+~+Deploy)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2370A5FD&center=true&vCenter=true&width=750&duration=3000&pause=1000&lines=Hi+there+👋,+I'm+Dainy+Jose!;Welcome+to+My+GitHub+Profile!;React+Native+Mobile+Developer+%7C+TypeScript+%7C+Expo+Bare+Workflow;Building+Scalable+Android+%26+iOS+Applications;Research+~+Architect+~+Develop+~+Validate+~+Deploy)](https://git.io/typing-svg)
 
 ---
 
@@ -14,25 +14,28 @@ Building scalable Android & iOS applications.
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://dainyjose.github.io/my-portfolio/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dainyjose/)
-[![Dev.to](https://img.shields.io/badge/-Dev.to-000000?style=flat&logo=dev.to&logoColor=white)](https://dev.to/dainy_jose)
-[![Email](https://img.shields.io/badge/Email-000000?style=flat&logo=gmail&logoColor=white)](mailto:dainyjose.mary@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/dainyjose)
-![Profile Views](https://komarev.com/ghpvc/?username=dainyjose&label=Profile_Views&color=A020F0&style=flat-square)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=vercel&logoColor=white)](https://dainyjose.github.io/my-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dainyjose/)
+[![Dev.to](https://img.shields.io/badge/Dev.to-1a1b27?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/dainy_jose)
+[![Email](https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:dainyjose.mary@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dainyjose)
+
+![Profile Views](https://komarev.com/ghpvc/?username=dainyjose&label=Profile%20Views&color=70A5FD&style=for-the-badge)
 
 </div>
 
 
 ------
 
-## 👨‍💻 React Native Mobile Developer | Full-Stack (MERN)
+## 👩‍💻 React Native Mobile Developer | Full-Stack (MERN)
 
-I’m a React Native Mobile Application Developer with 3+ years of experience building scalable cross-platform Android and iOS applications using React Native, TypeScript, and the Expo Bare workflow.
 
-My work focuses on building production-ready mobile apps with clean architecture, secure integrations, and strong performance. I have experience integrating real-world features such as payments, maps, notifications, authentication, and analytics.
+I’m a React Native Developer with 3+ years of experience building scalable, production-ready Android and iOS applications.
 
-Alongside mobile development, I build backend services and APIs using the MERN stack for integrations, POCs, and personal projects.
+I specialize in React Native, TypeScript, and Expo Bare Workflow, focusing on performance, clean architecture, and real-world integrations like payments, maps, notifications, and authentication.
+
+I also build backend services using the MERN stack for full-stack solutions and integrations.
+
 
 ## Core Expertise
 
@@ -70,6 +73,15 @@ Alongside mobile development, I build backend services and APIs using the MERN s
 
 ---
 
+##  Key Highlights
+
+- 3+ years building cross-platform mobile apps  
+- Strong expertise in React Native + TypeScript  
+- Experience with payments, authentication & real-time features  
+- Clean architecture & reusable component design  
+- Full-stack capability with MERN stack  
+
+---
 ## Education
 
 **Master of Computer Applications (MCA)**  
@@ -135,29 +147,53 @@ Providence Women’s College, Calicut
 <a href="https://www.apple.com/app-store/" target="_blank" title="App Store Deployment"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="40" alt="App Store" /></a>
 </div>
 
+
 ---
 
 ## GitHub Stats
 
 <p align="center">
+<img height="160px" src="https://github-readme-stats.vercel.app/api?username=dainyjose&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
+  <img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=dainyjose&theme=tokyonight" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=dainyjose&show_icons=true&theme=tokyonight" height="170"/>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dainyjose&layout=compact&theme=tokyonight&count_private=true&hide_title=true" />
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dainyjose&theme=tokyonight" height="170"/>
+<br/>
 
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img 
+      alt="dainyjose's Activity Graph" 
+      width="80%" 
+      height="220px"
+      src="https://github-readme-activity-graph.vercel.app/graph/?username=dainyjose&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&hide_border=true" 
+    />
+  </a>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ishandutta2007/snk/output-svg-only/github-contribution-grid-snake.svg" width="80%" />
 </p>
 
 
-
+<p align="center">
+  <sub><i>
+    Note: Top languages reflect the distribution of languages used in my public repositories and may not accurately represent my proficiency or experience.
+  </i></sub>
+</p>
 
 ---
+
 
 ##  Portfolio
 
 Check out my personal portfolio to explore my latest projects, case studies, and open-source work:
 
  **[Visit My Portfolio →](https://dainyjose.github.io/my-portfolio/)**  
-A showcase of my professional work — featuring hybrid mobile apps, full-stack web solutions, and open-source projects built with modern technologies like React Native, TypeScript, and MERN Stack.
+A showcase of my professional work — featuring cross-platform mobile apps, full-stack web solutions, and open-source projects built with modern technologies like React Native, TypeScript, and MERN Stack.
 
 ---
 
