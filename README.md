@@ -24,7 +24,6 @@ Building scalable Android & iOS applications.
 
 </div>
 
-
 ------
 
 ## 👩‍💻 React Native Mobile Developer | Full-Stack (MERN)
@@ -151,6 +150,12 @@ Providence Women’s College, Calicut
 ---
 
 ## GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dainyjose&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" />
+</p>
+
+
 
 <p align="center">
   <img height="160px" width="32%" src="https://github-readme-stats.vercel.app/api?username=dainyjose&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
