@@ -1,23 +1,26 @@
-name: Update GitHub Stats
+name: Generate GitHub Stats SVG
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # every 12 hours
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Generate stats SVG
+      - name: Download GitHub stats SVG
         run: |
-          curl -o github-stats.svg "https://github-readme-stats.vercel.app/api?username=dainyjose&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+          curl -L -o github-stats.svg "https://github-readme-stats.vercel.app/api?username=dainyjose&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
 
-      - name: Commit & push if changed
+      - name: Commit and push
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
