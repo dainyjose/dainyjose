@@ -158,11 +158,12 @@ Providence Women’s College, Calicut
 
 
 <p align="center">
-  <img height="160px" width="32%" src="https://github-readme-stats.vercel.app/api?username=dainyjose&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
   
-  <img height="160px" width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=dainyjose&theme=tokyonight&hide_border=true" />
+  <img height="160px" width="32%" src="https://github-readme-stats.vercel.app/api?username=dainyjose&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&cache_seconds=1800" onerror="this.src='https://via.placeholder.com/1x1/00000000/00000000';"/>
+  
+  <img height="160px" width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=dainyjose&theme=tokyonight&hide_border=true"  onerror="this.style.display='none'" />
 
-  <img height="160px" width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dainyjose&layout=compact&theme=tokyonight&hide_border=true&count_private=true&hide_title=true" />
+  <img height="160px" width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dainyjose&layout=compact&theme=tokyonight&hide_border=true&count_private=true&hide_title=true" onerror="this.style.display='none'" />
 </p>
 
 <br/>
