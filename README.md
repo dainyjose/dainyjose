@@ -168,8 +168,8 @@ Providence Women’s College, Calicut
 <br/>
 
 <p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img 
+<a href="https://github.com/dainyjose?tab=repositories">
+  <img 
       alt="dainyjose's Activity Graph" 
       width="80%" 
       height="220px"
