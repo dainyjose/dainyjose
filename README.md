@@ -110,268 +110,273 @@ Providence Women’s College, Calicut
 <table>
 
 <tr>
-<td align="center" width="96">
+<td align="center" width="75">
   <a href="https://react.dev/" target="_blank">
     <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="React Native" />
   </a>
   <br/>React Native
 </td>
 
-<td align="center" width="96">
+<td align="center" width="75">
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" alt="TypeScript" />
   </a>
   <br/>TypeScript
 </td>
 
-<td align="center" width="96">
+<td align="center" width="75">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript" />
   </a>
   <br/>JavaScript
 </td>
 
-<td align="center" width="96">
+<td align="center" width="75">
   <a href="https://redux.js.org/" target="_blank">
     <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="65" height="65" alt="Redux" />
   </a>
   <br/>Redux
 </td>
 
-<td align="center" width="96">
+<td align="center" width="75">
   <a href="https://expo.dev/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" width="65" height="65" alt="Expo" />
   </a>
   <br/>Expo
 </td>
 
-<td align="center" width="96">
+<td align="center" width="75">
   <a href="https://vitejs.dev/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="65" height="65" alt="Vite" />
   </a>
   <br/>Vite
 </td>
 
-<td align="center" width="96">
+<td align="center" width="75">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
   </a>
   <br/>HTML5
 </td>
+</tr>
 
-<td align="center" width="96">
+<tr>
+<td align="center" width="75">
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
   </a>
   <br/>CSS3
 </td>
 
-<td align="center" width="96">
+<td align="center" width="75">
   <a href="https://nodejs.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
   </a>
   <br/>Node.js
 </td>
 
-<td align="center" width="96">
+<td align="center" width="75">
   <a href="https://expressjs.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="65" height="65" alt="Express.js" />
   </a>
   <br/>Express
 </td>
-</tr>
 
-<tr>
-<td align="center" width="96">
+<td align="center" width="75">
   <a href="https://restfulapi.net/" target="_blank">
     <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="REST API" />
   </a>
   <br/>REST API
 </td>
 
-<td align="center" width="96">
+<td align="center" width="75">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65" height="65" alt="Python" />
   </a>
   <br/>Python
 </td>
 
-<td align="center" width="96">
+<td align="center" width="75">
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="65" height="65" alt="Firebase" />
   </a>
   <br/>Firebase
 </td>
 
-<td align="center" width="96">
+<td align="center" width="75">
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
   </a>
   <br/>MongoDB
 </td>
+</tr>
 
-<td align="center" width="96">
+<tr>
+<td align="center" width="75">
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL" />
   </a>
   <br/>MySQL
 </td>
 
-<td align="center" width="96">
+<td align="center" width="75">
   <a href="https://jestjs.io/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="65" height="65" alt="Jest" />
   </a>
   <br/>Jest
 </td>
 
-<td align="center" width="96">
+<td align="center" width="75">
   <a href="https://github.com/" target="_blank">
     <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
   </a>
   <br/>GitHub
 </td>
 
-<td align="center" width="96">
+<td align="center" width="75">
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
   </a>
   <br/>Git
 </td>
 
-<td align="center" width="96">
+<td align="center" width="75">
   <a href="https://www.npmjs.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="65" height="65" alt="npm" />
   </a>
   <br/>npm
 </td>
 
-<td align="center" width="96">
+<td align="center" width="75">
   <a href="https://bun.sh/" target="_blank">
     <img src="https://bun.sh/logo.svg" width="52" height="52" alt="Bun" />
   </a>
   <br/>Bun
 </td>
-</tr>
-
-<tr>
-<td align="center" width="96">
+<td align="center" width="75">
   <a href="https://www.postman.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
   </a>
   <br/>Postman
 </td>
+</tr>
 
-<td align="center" width="96">
+<tr>
+<td align="center" width="75">
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
   </a>
   <br/>VS Code
 </td>
 
-<td align="center" width="96">
+<td align="center" width="75">
   <a href="https://developer.android.com/studio" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="65" height="65" alt="Android Studio" />
   </a>
   <br/>Android Studio
 </td>
 
-<td align="center" width="96">
+<td align="center" width="75">
   <a href="https://developer.apple.com/xcode/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="65" height="65" alt="Xcode" />
   </a>
   <br/>Xcode
 </td>
 
-<td align="center" width="96">
+<td align="center" width="75">
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="65" height="65" alt="Docker" />
   </a>
   <br/>Docker
 </td>
 
-<td align="center" width="96">
+<td align="center" width="75">
   <a href="https://www.atlassian.com/software/jira" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="65" height="65" alt="Jira" />
   </a>
   <br/>Jira
 </td>
 
-<td align="center" width="96">
+<td align="center" width="75">
   <a href="https://www.figma.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="65" height="65" alt="Figma" />
   </a>
   <br/>Figma
 </td>
 
-<td align="center" width="96">
+<td align="center" width="75">
   <a href="https://bitbucket.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width="65" height="65" alt="Bitbucket" />
   </a>
   <br/>Bitbucket
 </td>
+</tr>
 
-<td align="center" width="96">
+<tr>
+<td align="center" width="75">
   <a href="https://www.netlify.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="65" height="65" alt="Netlify" />
   </a>
   <br/>Netlify
 </td>
 
-<td align="center" width="96">
+<td align="center" width="75">
   <a href="https://www.heroku.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="65" height="65" alt="Heroku" />
   </a>
   <br/>Heroku
 </td>
-</tr>
 
-<tr>
-<td align="center" width="96">
+<td align="center" width="75">
   <a href="https://www.cloudflare.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="65" height="65" alt="Cloudflare" />
   </a>
   <br/>Cloudflare
 </td>
 
-<td align="center" width="96">
+<td align="center" width="75">
   <a href="https://www.apple.com/macos/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="65" height="65" alt="macOS" />
   </a>
   <br/>macOS
 </td>
-<td align="center" width="96">
+
+<td align="center" width="75">
   <a href="https://www.microsoft.com/windows/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="65" height="65" alt="Windows" />
   </a>
   <br/>Windows
 </td>
 
-<td align="center" width="96">
+<td align="center" width="75">
   <a href="https://developer.apple.com/ios/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="65" height="65" alt="iOS" />
   </a>
   <br/>iOS
 </td>
 
-<td align="center" width="96">
+<td align="center" width="75">
   <a href="https://www.android.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="65" height="65" alt="Android" />
   </a>
   <br/>Android
 </td>
-<td align="center" width="96">
+</tr>
+
+<tr>
+<td align="center" width="75">
   <a href="https://play.google.com/store" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Play_Arrow_logo.svg" width="65" height="65" alt="Play Store" />
   </a>
   <br/>Play Store
 </td>
-<td align="center" width="96">
+<td align="center" width="75">
   <a href="https://www.apple.com/app-store/" target="_blank">
     <img src="https://developer.apple.com/assets/elements/icons/app-store/app-store-128x128_2x.png" width="65" height="65" alt="App Store" />
   </a>
   <br/>App Store
 </td>
-<td colspan="3"></td>
+<td colspan="5"></td>
 </tr>
 
 </table>
