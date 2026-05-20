@@ -411,7 +411,7 @@ Providence Women’s College, Calicut
       alt="dainyjose's Activity Graph" 
       width="80%" 
       height="220px"
-      src="https://github-readme-activity-graph.vercel.app/graph/?username=dainyjose&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&hide_border=true" 
+        src="https://github-readme-activity-graph.vercel.app/graph/?username=dainyjose&custom_title=The%20Journey%20of%20Crafting%20Code%20into%20Products%20🚀&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&hide_border=true"
     />
   </a>
 </p>
