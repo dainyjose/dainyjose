@@ -38,9 +38,12 @@ I also build backend services using the MERN stack for full-stack solutions and 
 
 ## Core Expertise
 
-### Mobile Development
+### Mobile & Web Development
 - React Native
 - TypeScript
+- JavaScript
+- Next.js
+- Tailwind CSS
 - Expo Bare Workflow
 - Android & iOS Development
 - Redux, Context API, Custom Hooks
@@ -81,6 +84,17 @@ I also build backend services using the MERN stack for full-stack solutions and 
 - Full-stack capability with MERN stack  
 
 ---
+## Currently Exploring
+
+- Next.js App Router
+- Server Components
+- Tailwind CSS
+- SEO & Performance Optimization
+- Technical Writing & Blogging
+- Full-Stack Development with Next.js
+
+---
+
 ## Education
 
 **Master of Computer Applications (MCA)**  
@@ -130,7 +144,19 @@ Providence Women’s College, Calicut
   </a>
   <br/>JavaScript
 </td>
+<td align="center" width="75">
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+  </a>
+  <br/>Next.js
+</td>
 
+<td align="center" width="75">
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
+  </a>
+  <br/>Tailwind
+</td>
 <td align="center" width="75">
   <a href="https://redux.js.org/" target="_blank">
     <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="65" height="65" alt="Redux" />
@@ -144,7 +170,9 @@ Providence Women’s College, Calicut
   </a>
   <br/>Expo
 </td>
+</tr>
 
+<tr>
 <td align="center" width="75">
   <a href="https://vitejs.dev/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="65" height="65" alt="Vite" />
@@ -158,9 +186,7 @@ Providence Women’s College, Calicut
   </a>
   <br/>HTML5
 </td>
-</tr>
 
-<tr>
 <td align="center" width="75">
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
@@ -195,7 +221,9 @@ Providence Women’s College, Calicut
   </a>
   <br/>Python
 </td>
+</tr>
 
+<tr>
 <td align="center" width="75">
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="65" height="65" alt="Firebase" />
@@ -209,9 +237,7 @@ Providence Women’s College, Calicut
   </a>
   <br/>MongoDB
 </td>
-</tr>
 
-<tr>
 <td align="center" width="75">
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL" />
@@ -246,6 +272,9 @@ Providence Women’s College, Calicut
   </a>
   <br/>npm
 </td>
+</tr>
+
+<tr>
 
 <td align="center" width="75">
   <a href="https://bun.sh/" target="_blank">
@@ -259,9 +288,7 @@ Providence Women’s College, Calicut
   </a>
   <br/>Postman
 </td>
-</tr>
 
-<tr>
 <td align="center" width="75">
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
@@ -296,7 +323,9 @@ Providence Women’s College, Calicut
   </a>
   <br/>Jira
 </td>
+</tr>
 
+<tr>
 <td align="center" width="75">
   <a href="https://www.figma.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="65" height="65" alt="Figma" />
@@ -310,9 +339,7 @@ Providence Women’s College, Calicut
   </a>
   <br/>Bitbucket
 </td>
-</tr>
 
-<tr>
 <td align="center" width="75">
   <a href="https://www.netlify.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="65" height="65" alt="Netlify" />
@@ -347,7 +374,9 @@ Providence Women’s College, Calicut
   </a>
   <br/>Windows
 </td>
+</tr>
 
+<tr>
 <td align="center" width="75">
   <a href="https://developer.apple.com/ios/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="65" height="65" alt="iOS" />
@@ -361,9 +390,7 @@ Providence Women’s College, Calicut
   </a>
   <br/>Android
 </td>
-</tr>
 
-<tr>
 <td align="center" width="75">
   <a href="https://play.google.com/store" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Play_Arrow_logo.svg" width="65" height="65" alt="Play Store" />
@@ -376,7 +403,7 @@ Providence Women’s College, Calicut
   </a>
   <br/>App Store
 </td>
-<td colspan="5"></td>
+<td colspan="3"></td>
 </tr>
 
 </table>
