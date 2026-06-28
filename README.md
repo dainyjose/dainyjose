@@ -46,7 +46,7 @@ I also build backend services using the MERN stack for full-stack solutions and 
 - Tailwind CSS
 - Expo Bare Workflow
 - Android & iOS Development
-- Redux, Context API, Custom Hooks
+- Redux, Zustand, Context API, Custom Hooks
 - Reusable Component Architecture
 
 ### Backend & APIs
@@ -157,12 +157,7 @@ Providence Women’s College, Calicut
   </a>
   <br/>Tailwind
 </td>
-<td align="center" width="75">
-  <a href="https://redux.js.org/" target="_blank">
-    <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="65" height="65" alt="Redux" />
-  </a>
-  <br/>Redux
-</td>
+
 
 <td align="center" width="75">
   <a href="https://expo.dev/" target="_blank">
@@ -170,14 +165,33 @@ Providence Women’s College, Calicut
   </a>
   <br/>Expo
 </td>
-</tr>
-
-<tr>
 <td align="center" width="75">
   <a href="https://vitejs.dev/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="65" height="65" alt="Vite" />
   </a>
   <br/>Vite
+</td>
+</tr>
+
+<tr>
+
+<td align="center" width="75">
+  <a href="https://redux.js.org/" target="_blank">
+    <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="65" height="65" alt="Redux" />
+  </a>
+  <br/>Redux
+</td>
+  
+<td align="center" width="75">
+  <a href="https://zustand-demo.pmnd.rs/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/pmndrs/zustand/main/examples/demo/public/logo192.png"
+      width="65"
+      height="65"
+      alt="Zustand"
+    />
+  </a>
+  <br/>Zustand
 </td>
 
 <td align="center" width="75">
@@ -214,16 +228,16 @@ Providence Women’s College, Calicut
   </a>
   <br/>REST API
 </td>
+</tr>
 
+<tr>
 <td align="center" width="75">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65" height="65" alt="Python" />
   </a>
   <br/>Python
 </td>
-</tr>
 
-<tr>
 <td align="center" width="75">
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="65" height="65" alt="Firebase" />
@@ -265,6 +279,9 @@ Providence Women’s College, Calicut
   </a>
   <br/>Git
 </td>
+</tr>
+
+<tr>
 
 <td align="center" width="75">
   <a href="https://www.npmjs.com/" target="_blank">
@@ -272,9 +289,7 @@ Providence Women’s College, Calicut
   </a>
   <br/>npm
 </td>
-</tr>
 
-<tr>
 
 <td align="center" width="75">
   <a href="https://bun.sh/" target="_blank">
@@ -316,16 +331,16 @@ Providence Women’s College, Calicut
   </a>
   <br/>Docker
 </td>
+</tr>
 
+<tr>
 <td align="center" width="75">
   <a href="https://www.atlassian.com/software/jira" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="65" height="65" alt="Jira" />
   </a>
   <br/>Jira
 </td>
-</tr>
 
-<tr>
 <td align="center" width="75">
   <a href="https://www.figma.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="65" height="65" alt="Figma" />
@@ -367,6 +382,9 @@ Providence Women’s College, Calicut
   </a>
   <br/>macOS
 </td>
+</tr>
+
+<tr>
 
 <td align="center" width="75">
   <a href="https://www.microsoft.com/windows/" target="_blank">
@@ -374,9 +392,7 @@ Providence Women’s College, Calicut
   </a>
   <br/>Windows
 </td>
-</tr>
 
-<tr>
 <td align="center" width="75">
   <a href="https://developer.apple.com/ios/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="65" height="65" alt="iOS" />
@@ -403,7 +419,7 @@ Providence Women’s College, Calicut
   </a>
   <br/>App Store
 </td>
-<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 
 </table>
