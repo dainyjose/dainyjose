@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Dainy Jose
-### 🚀 React Native Developer | Building Scalable Mobile & Full-Stack Solutions
+### 🚀 React Native Developer | TypeScript | Expo Bare Workflow | Building Production-Ready Android & iOS Apps
 
 ![Banner](https://raw.githubusercontent.com/dainyjose/dainyjose/main/assets/CP.jpeg)
 
@@ -35,6 +35,22 @@ I specialize in React Native, TypeScript, and Expo Bare Workflow, focusing on pe
 
 I also build backend services using the MERN stack for full-stack solutions and integrations.
 
+## Experience
+
+**React Native Developer**  
+**3+ Years of Professional Experience**
+
+### Highlights
+
+- Built and maintained production-ready Android & iOS applications
+- Developed scalable applications using React Native, TypeScript, and Expo Bare Workflow
+- Integrated payment gateways including Razorpay and PayU
+- Implemented Firebase services (FCM, Analytics, Crashlytics)
+- Built offline-ready features with Redux Toolkit and local persistence
+- Integrated maps, geolocation, push notifications, and authentication
+- Worked closely with designers, QA, and backend teams following Agile methodologies
+
+---
 
 ## Core Expertise
 
@@ -81,17 +97,14 @@ I also build backend services using the MERN stack for full-stack solutions and 
 - Strong expertise in React Native + TypeScript  
 - Experience with payments, authentication & real-time features  
 - Clean architecture & reusable component design  
-- Full-stack capability with MERN stack  
+- Full-stack capability with MERN stack
 
 ---
-## Currently Exploring
+## Current Focus
 
-- Next.js App Router
-- Server Components
-- Tailwind CSS
-- SEO & Performance Optimization
-- Technical Writing & Blogging
-- Full-Stack Development with Next.js
+• Building production React Native applications
+• Learning Next.js App Router
+• Writing technical blogs
 
 ---
 
@@ -104,8 +117,19 @@ Jyoti Nivas Autonomous College, Bangalore
 Providence Women’s College, Calicut
 
 ---
+## Certifications
 
-### What I Deliver
+- **OWASP Mobile Top 10 2025: Android & iOS App Security** *(Udemy)* — [Certificate](https://www.udemy.com/certificate/UC-492454b2-dbfa-4753-a9e8-35d6722b91c1/)
+  - **Topics:** Mobile application security, secure authentication & authorization, cryptography, secure data storage, network security (TLS & certificate pinning), reverse engineering protection, dependency security, and secure coding practices.
+
+- **React Native: Developing Android and iOS Apps** *(Coursera | SkillUp | Canara Bank Aspire Program)* — [Certificate](https://www.coursera.org/account/accomplishments/verify/QUY0GYSBQ5V9)
+  - **Topics:** React Native fundamentals, Android & iOS development, navigation, reusable components, state management, API integration, and cross-platform application development.
+
+- **Fundamentals of MERN Stack** *(Simplilearn SkillUp)* — [Certificate](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiIzMzM3IiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6XC9cL2NlcnRpZmljYXRlcy5zaW1wbGljZG4ubmV0XC9zaGFyZVwvOTY2NTE1NF85OTI2Njc2XzE3NjcyMDQ1OTYxNDMucG5nIiwidXNlcm5hbWUiOiJEYWlueSBKb3NlIn0&utm_source=shared-certificate&utm_medium=app_lms&utm_campaign=shared-certificate-promotion)
+  - **Topics:** MongoDB, Express.js, React.js, Node.js, REST APIs, CRUD operations, authentication, and full-stack web development.
+---
+
+### What I Build
 
 ✅ Cross-platform apps with smooth UI/UX
 
@@ -475,12 +499,19 @@ Providence Women’s College, Calicut
 ---
 
 
-##  Portfolio
+## Portfolio
 
-Check out my personal portfolio to explore my latest projects, case studies, and open-source work:
+Explore my portfolio for production-ready mobile applications, full-stack projects, technical case studies, and open-source contributions.
 
- **[Visit My Portfolio →](https://dainyjose.github.io/my-portfolio/)**  
-A showcase of my professional work — featuring cross-platform mobile apps, full-stack web solutions, and open-source projects built with modern technologies like React Native, TypeScript, and MERN Stack.
+**🔗 Portfolio:**  
+https://dainyjose.github.io/my-portfolio/
+
+Highlights:
+- Cross-platform Mobile Applications
+- Full-Stack Web Projects
+- Case Studies
+- Open Source Contributions
+- Technical Blogs
 
 ---
 
