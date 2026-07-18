@@ -519,6 +519,9 @@ Highlights:
 
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white&style=for-the-badge)](https://dev.to/dainyjose)  
 
+- [Understanding OWASP Mobile Top 10 (2025): A Guide for Android & iOS Developers](https://dev.to/dainyjose/understanding-owasp-mobile-top-10-2025-a-guide-for-android-ios-developers-371p)
+- [Complete CI/CD Guide for React Native Apps Using GitHub Actions](https://dev.to/dainyjose/complete-cicd-guide-for-react-native-apps-using-github-actions-4hh1)
+- [Implementing Firebase Crashlytics in React Native](https://dev.to/dainyjose/implementing-firebase-crashlytics-in-react-native-12i3)
 - [Edge-to-Edge Styling in React Native on Android 15](https://dev.to/dainyjose/edge-to-edge-styling-in-react-native-on-android-15-2ihd)
 - [Understanding Google Play’s 16 KB Page Size Requirement for Android Apps](https://dev.to/dainyjose/understanding-google-plays-16-kb-page-size-requirement-for-android-apps-phd)  
 - [Troubleshooting 16 KB Page Size Issues](https://dev.to/dainyjose/troubleshooting-16-kb-page-size-issues-2pfe)  
