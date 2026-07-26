@@ -119,6 +119,10 @@ Providence Women’s College, Calicut
 ---
 ## Certifications
 
+- **Firebase Analytics & Google Analytics 4 (GA4) for Mobile Apps** *(Udemy)* — [Certificate](https://www.udemy.com/certificate/UC-4a23b92f-0857-4a75-83dd-ac186bdfdfbc/)
+  - **Topics:** Firebase Analytics integration, Google Analytics 4 (GA4), event planning and naming conventions, screen view tracking, custom events, custom definitions, conversion tracking, user properties, audiences, analytics debugging, and measuring user engagement in Android & iOS applications.
+ 
+
 - **OWASP Mobile Top 10 2025: Android & iOS App Security** *(Udemy)* — [Certificate](https://www.udemy.com/certificate/UC-492454b2-dbfa-4753-a9e8-35d6722b91c1/)
   - **Topics:** Mobile application security, secure authentication & authorization, cryptography, secure data storage, network security (TLS & certificate pinning), reverse engineering protection, dependency security, and secure coding practices.
 
