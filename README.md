@@ -523,6 +523,7 @@ Highlights:
 
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white&style=for-the-badge)](https://dev.to/dainyjose)  
 
+- [Google Play Requires Android 16 (API Level 36) by August 31, 2026 — React Native Migration Guide](https://dev.to/dainyjose/google-play-requires-android-16-api-level-36-by-august-31-2026-react-native-migration-guide-1d51)
 - [Understanding OWASP Mobile Top 10 (2025): A Guide for Android & iOS Developers](https://dev.to/dainyjose/understanding-owasp-mobile-top-10-2025-a-guide-for-android-ios-developers-371p)
 - [Complete CI/CD Guide for React Native Apps Using GitHub Actions](https://dev.to/dainyjose/complete-cicd-guide-for-react-native-apps-using-github-actions-4hh1)
 - [Implementing Firebase Crashlytics in React Native](https://dev.to/dainyjose/implementing-firebase-crashlytics-in-react-native-12i3)
