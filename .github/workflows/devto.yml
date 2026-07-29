@@ -19,3 +19,4 @@ jobs:
         with:
           comment_tag_name: DEVTO
           feed_list: https://dev.to/feed/dainyjose
+          commit_message: "docs: update latest DEV.to articles"
