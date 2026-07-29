@@ -1,4 +1,9 @@
-# 👋 Hi, I'm Dainy Jose
+
+<h1 align="center">
+  <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="35" />
+  Hi, I'm Dainy Jose
+</h1>
+
 ### 🚀 React Native Developer | TypeScript | Expo Bare Workflow | Building Production-Ready Android & iOS Apps
 
 ![Banner](https://raw.githubusercontent.com/dainyjose/dainyjose/main/assets/CP.jpeg)
