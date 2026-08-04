@@ -4,15 +4,16 @@
   Hi, I'm Dainy Jose
 </h1>
 
-### 🚀 React Native Developer | TypeScript | Expo Bare Workflow | Building Production-Ready Android & iOS Apps
+### 🚀 Senior Software Developer | React Native | TypeScript | Building Production-Ready Android & iOS Apps
+
 
 ![Banner](https://raw.githubusercontent.com/dainyjose/dainyjose/main/assets/CP.jpeg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2370A5FD&center=true&vCenter=true&width=750&duration=3000&pause=1000&lines=Hi+there+👋,+I'm+Dainy+Jose!;Welcome+to+My+GitHub+Profile!;React+Native+Mobile+Developer+%7C+TypeScript+%7C+Expo+Bare+Workflow;Building+Scalable+Android+%26+iOS+Applications;Research+~+Architect+~+Develop+~+Validate+~+Deploy)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2370A5FD&center=true&vCenter=true&width=750&duration=3000&pause=1000&lines=Hi+there+👋,+I'm+Dainy+Jose!;Welcome+to+My+GitHub+Profile!;Senior+Software+Developer+%7C+React+Native;Building+Scalable+Android+%26+iOS+Applications;TypeScript+%7C+Expo+Bare+Workflow+%7C+MERN+Stack;Research+~+Architect+~+Develop+~+Validate+~+Deploy)](https://git.io/typing-svg)
 
 ---
 
-#### React Native Developer | TypeScript | Expo Bare Workflow | MERN Stack
+#### Senior Software Developer | React Native | TypeScript | Expo Bare Workflow | MERN Stack
 Building scalable Android & iOS applications.
 
 ---
@@ -33,8 +34,7 @@ Building scalable Android & iOS applications.
 
 ## 👩‍💻 React Native Mobile Developer | Full-Stack (MERN)
 
-
-I’m a React Native Developer with 3+ years of experience building scalable, production-ready Android and iOS applications.
+I'm a Senior Software Developer with 3+ years of experience building scalable, production-ready Android and iOS applications using React Native and TypeScript.
 
 I specialize in React Native, TypeScript, and Expo Bare Workflow, focusing on performance, clean architecture, and real-world integrations like payments, maps, notifications, and authentication.
 
@@ -42,7 +42,7 @@ I also build backend services using the MERN stack for full-stack solutions and 
 
 ## Experience
 
-**React Native Developer**  
+### Senior Software Developer
 **3+ Years of Professional Experience**
 
 ### Highlights
