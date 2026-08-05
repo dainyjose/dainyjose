@@ -198,33 +198,22 @@ Providence Women’s College, Calicut
   </a>
   <br/>Expo
 </td>
+</tr>
+
+<tr>
 <td align="center" width="75">
   <a href="https://vitejs.dev/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="65" height="65" alt="Vite" />
   </a>
   <br/>Vite
 </td>
-</tr>
 
-<tr>
 
 <td align="center" width="75">
   <a href="https://redux.js.org/" target="_blank">
     <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="65" height="65" alt="Redux" />
   </a>
   <br/>Redux
-</td>
-  
-<td align="center" width="75">
-  <a href="https://zustand-demo.pmnd.rs/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/pmndrs/zustand/main/examples/demo/public/logo192.png"
-      width="65"
-      height="65"
-      alt="Zustand"
-    />
-  </a>
-  <br/>Zustand
 </td>
 
 <td align="center" width="75">
@@ -254,21 +243,15 @@ Providence Women’s College, Calicut
   </a>
   <br/>Express
 </td>
+</tr>
+
+<tr>
 
 <td align="center" width="75">
   <a href="https://restfulapi.net/" target="_blank">
     <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="REST API" />
   </a>
   <br/>REST API
-</td>
-</tr>
-
-<tr>
-<td align="center" width="75">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65" height="65" alt="Python" />
-  </a>
-  <br/>Python
 </td>
 
 <td align="center" width="75">
@@ -292,12 +275,7 @@ Providence Women’s College, Calicut
   <br/>MySQL
 </td>
 
-<td align="center" width="75">
-  <a href="https://jestjs.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="65" height="65" alt="Jest" />
-  </a>
-  <br/>Jest
-</td>
+
 
 <td align="center" width="75">
   <a href="https://github.com/" target="_blank">
@@ -358,12 +336,7 @@ Providence Women’s College, Calicut
   <br/>Xcode
 </td>
 
-<td align="center" width="75">
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="65" height="65" alt="Docker" />
-  </a>
-  <br/>Docker
-</td>
+
 </tr>
 
 <tr>
@@ -389,35 +362,12 @@ Providence Women’s College, Calicut
 </td>
 
 <td align="center" width="75">
-  <a href="https://www.netlify.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="65" height="65" alt="Netlify" />
-  </a>
-  <br/>Netlify
-</td>
-
-<td align="center" width="75">
-  <a href="https://www.heroku.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="65" height="65" alt="Heroku" />
-  </a>
-  <br/>Heroku
-</td>
-
-<td align="center" width="75">
-  <a href="https://www.cloudflare.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="65" height="65" alt="Cloudflare" />
-  </a>
-  <br/>Cloudflare
-</td>
-
-<td align="center" width="75">
   <a href="https://www.apple.com/macos/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="65" height="65" alt="macOS" />
   </a>
   <br/>macOS
 </td>
-</tr>
 
-<tr>
 
 <td align="center" width="75">
   <a href="https://www.microsoft.com/windows/" target="_blank">
@@ -432,7 +382,10 @@ Providence Women’s College, Calicut
   </a>
   <br/>iOS
 </td>
+</tr>
 
+<tr>
+  
 <td align="center" width="75">
   <a href="https://www.android.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="65" height="65" alt="Android" />
@@ -452,7 +405,7 @@ Providence Women’s College, Calicut
   </a>
   <br/>App Store
 </td>
-<td colspan="2"></td>
+<td colspan="3"></td>
 </tr>
 
 </table>
