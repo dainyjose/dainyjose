@@ -417,19 +417,19 @@ Providence Women’s College, Calicut
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dainyjose&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dainyjose&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" alt ="" />
 </p>
 
 <p align="center">
   <img
     height="160px" width="32%"
     src="https://beautiful-github-homepage.vercel.app/api?username=dainyjose&theme=tokyonight&hide_border=true&hide_title=true&include_all_commits=true&count_private=true"
-    alt="GitHub Homepage"
+    alt=""
   />
   
-  <img height="160px" width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=dainyjose&theme=tokyonight&hide_border=true"  onerror="this.style.display='none'" />
+  <img height="160px" width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=dainyjose&theme=tokyonight&hide_border=true"  alt ="" />
 
-  <img height="160px" width="32%" src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=dainyjose&layout=compact&theme=tokyonight&hide_border=true&count_private=true&hide_title=true" onerror="this.style.display='none'" />
+  <img height="160px" width="32%" src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=dainyjose&layout=compact&theme=tokyonight&hide_border=true&count_private=true&hide_title=true" alt ="" />
 </p>
 
 <br/>
@@ -488,22 +488,10 @@ Highlights:
 - [Understanding OWASP Mobile Top 10 &lpar;2025&rpar;: A Guide for Android &amp; iOS Developers](https://dev.to/dainyjose/understanding-owasp-mobile-top-10-2025-a-guide-for-android-ios-developers-371p)
 <!-- DEVTO:END -->
 
----
-
-<!-- ##  Blog & Articles  
-
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white&style=for-the-badge)](https://dev.to/dainyjose)  
-
-- [Google Play Requires Android 16 (API Level 36) by August 31, 2026 — React Native Migration Guide](https://dev.to/dainyjose/google-play-requires-android-16-api-level-36-by-august-31-2026-react-native-migration-guide-1d51)
-- [Understanding OWASP Mobile Top 10 (2025): A Guide for Android & iOS Developers](https://dev.to/dainyjose/understanding-owasp-mobile-top-10-2025-a-guide-for-android-ios-developers-371p)
-- [Complete CI/CD Guide for React Native Apps Using GitHub Actions](https://dev.to/dainyjose/complete-cicd-guide-for-react-native-apps-using-github-actions-4hh1)
-- [Implementing Firebase Crashlytics in React Native](https://dev.to/dainyjose/implementing-firebase-crashlytics-in-react-native-12i3)
-- [Edge-to-Edge Styling in React Native on Android 15](https://dev.to/dainyjose/edge-to-edge-styling-in-react-native-on-android-15-2ihd)
-- [Understanding Google Play’s 16 KB Page Size Requirement for Android Apps](https://dev.to/dainyjose/understanding-google-plays-16-kb-page-size-requirement-for-android-apps-phd)  
-- [Troubleshooting 16 KB Page Size Issues](https://dev.to/dainyjose/troubleshooting-16-kb-page-size-issues-2pfe)  
+<p align="center"> <a href="https://dev.to/dainy_jose"> <img src="https://img.shields.io/badge/Read%20More%20Articles%20%E2%86%92-1a1b27?style=for-the-badge&logo=devdotto&logoColor=white" /> </a> </p>
 
 ---
--->
+
 
 <p align="center">
   <b>Thanks for visiting my profile! 🚀 Let's build something amazing.</b>
