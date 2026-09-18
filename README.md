@@ -459,20 +459,23 @@ Providence Women’s College, Calicut
 
 ---
 
-
 ## Portfolio
 
-Explore my portfolio for production-ready mobile applications, full-stack projects, technical case studies, and open-source contributions.
+👋 **Want to see what I’m building, learning, and exploring as a developer?**
 
-**🔗 Portfolio:**  
+I’ve brought together my **skills, technologies, GitHub projects, experiments, and technical blogs** in one place — a snapshot of my journey as a developer and the things I enjoy working on.
+
+**🔗 Explore my portfolio:**
 https://dainyjose.github.io/my-portfolio/
 
-Highlights:
-- Cross-platform Mobile Applications
-- Full-Stack Web Projects
-- Case Studies
-- Open Source Contributions
-- Technical Blogs
+✨ **Inside, you’ll find:**
+
+* Skills & Tech Stack
+* GitHub Projects & POCs
+* Open-Source Contributions
+* Technical Blogs & Learnings
+
+**Take a look around and explore what I’ve been building and learning. 🚀**
 
 ---
 ##  Blog & Articles  
