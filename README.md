@@ -21,11 +21,11 @@ Building scalable Android & iOS applications.
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=vercel&logoColor=white)](https://dainyjose.github.io/my-portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dainyjose/)
+[![StackQuill](https://img.shields.io/badge/StackQuill-1a1b27?style=for-the-badge&logo=hashnode&logoColor=white)](https://stackquill-web.vercel.app/)
 [![Dev.to](https://img.shields.io/badge/Dev.to-1a1b27?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/dainy_jose)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dainyjose/)
 [![Email](https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:dainyjose.mary@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dainyjose)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=dainyjose&label=Profile%20Views&color=70A5FD&style=for-the-badge)
 
 </div>
@@ -38,12 +38,13 @@ I'm a Senior Software Developer with 3+ years of experience building scalable, p
 
 I specialize in React Native, TypeScript, and Expo Bare Workflow, focusing on performance, clean architecture, and real-world integrations like payments, maps, notifications, and authentication.
 
-I also build backend services using the MERN stack for full-stack solutions and integrations.
+I also explore backend and web development using the MERN stack and Next.js through personal projects and practical implementations.
+
 
 ## Experience
 
 ### Senior Software Developer
-**3+ Years of Professional Experience**
+**4+ Years of Professional Experience**
 
 ### Highlights
 
@@ -98,7 +99,7 @@ I also build backend services using the MERN stack for full-stack solutions and 
 
 ##  Key Highlights
 
-- 3+ years building cross-platform mobile apps  
+- 4+ years building cross-platform mobile apps  
 - Strong expertise in React Native + TypeScript  
 - Experience with payments, authentication & real-time features  
 - Clean architecture & reusable component design  
@@ -108,8 +109,9 @@ I also build backend services using the MERN stack for full-stack solutions and 
 ## Current Focus
 
 • Building production React Native applications
-• Learning Next.js App Router
-• Writing technical blogs
+• Exploring Next.js App Router and full-stack development
+• Building StackQuill, my personal developer blogging platform
+• Writing technical blogs and documenting development experiences
 
 ---
 
@@ -479,6 +481,13 @@ https://dainyjose.github.io/my-portfolio/
 
 ---
 ##  Blog & Articles  
+
+[![StackQuill](https://img.shields.io/badge/StackQuill-0A0A0A?logo=hashnode&logoColor=white&style=for-the-badge)](https://stackquill-web.vercel.app/)
+
+My personal developer blogging platform for documenting software development experiences, sharing technical knowledge, and exploring lessons learned along the way.
+
+[Explore StackQuill](https://stackquill-web.vercel.app/)
+
 
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white&style=for-the-badge)](https://dev.to/dainyjose) 
 
