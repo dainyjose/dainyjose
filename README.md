@@ -1,20 +1,6 @@
-
-<h1 align="center">
-  <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="35" />
-  Hi, I'm Dainy Jose
-</h1>
-
-### 🚀 Senior Software Developer | React Native | TypeScript | Building Production-Ready Android & iOS Apps
-
-
-![Banner](https://raw.githubusercontent.com/dainyjose/dainyjose/main/assets/CP.jpeg)
+![Banner](https://raw.githubusercontent.com/dainyjose/dainyjose/main/assets/cover_page.png)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2370A5FD&center=true&vCenter=true&width=750&duration=3000&pause=1000&lines=Hi+there+👋,+I'm+Dainy+Jose!;Welcome+to+My+GitHub+Profile!;Senior+Software+Developer+%7C+React+Native;Building+Scalable+Android+%26+iOS+Applications;TypeScript+%7C+Expo+Bare+Workflow+%7C+MERN+Stack;Research+~+Architect+~+Develop+~+Validate+~+Deploy)](https://git.io/typing-svg)
-
----
-
-#### Senior Software Developer | React Native | TypeScript | Expo Bare Workflow | MERN Stack
-Building scalable Android & iOS applications.
 
 ---
 
@@ -32,14 +18,15 @@ Building scalable Android & iOS applications.
 
 ------
 
-## 👩‍💻 React Native Mobile Developer | Full-Stack (MERN)
+## 👨‍💻 About Me
 
-I'm a Senior Software Developer with 3+ years of experience building scalable, production-ready Android and iOS applications using React Native and TypeScript.
+I'm a Senior Software Developer with **4+ years of professional experience** building scalable, production-ready Android and iOS applications.
 
-I specialize in React Native, TypeScript, and Expo Bare Workflow, focusing on performance, clean architecture, and real-world integrations like payments, maps, notifications, and authentication.
+My primary expertise is in **React Native, TypeScript, Redux, and Expo Bare Workflow**, with experience in mobile architecture, state management, API integrations, payment gateways, authentication, geolocation, push notifications, and production releases.
 
-I also explore backend and web development using the MERN stack and Next.js through personal projects and practical implementations.
+I also work with Node.js, Express.js, and SQL for backend development and explore Next.js and modern web technologies through personal projects.
 
+Beyond development, I enjoy technical problem-solving, mentoring developers, sharing knowledge, and building products such as **StackQuill**, my personal developer blogging platform.
 
 ## Experience
 
@@ -480,16 +467,23 @@ https://dainyjose.github.io/my-portfolio/
 **Take a look around and explore what I’ve been building and learning. 🚀**
 
 ---
-##  Blog & Articles  
+
+##  Blogs & Articles  
 
 [![StackQuill](https://img.shields.io/badge/StackQuill-0A0A0A?logo=hashnode&logoColor=white&style=for-the-badge)](https://stackquill-web.vercel.app/)
 
-My personal developer blogging platform for documenting software development experiences, sharing technical knowledge, and exploring lessons learned along the way.
+**StackQuill** is my personal developer blogging platform, built to document my software development journey, share practical technical knowledge, and explore ideas, challenges, and lessons learned through real-world projects. It provides a space to turn hands-on development experiences into useful insights, write about technologies I work with, and share what I learn along the way.
 
-[Explore StackQuill](https://stackquill-web.vercel.app/)
+<p align="center">
+  <a href="https://stackquill-web.vercel.app/">
+    <img src="https://img.shields.io/badge/Explore%20StackQuill%20%E2%86%92-1a1b27?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white&style=for-the-badge)](https://dev.to/dainyjose) 
+
+Dev.to is where I share articles about my development journey, covering React Native, Android, Firebase Analytics, GA4, and practical lessons from building real-world applications.
 
 <!-- DEVTO:START -->
 - [I Built StackQuill: My Journey from Developer to Product Builder](https://dev.to/dainyjose/i-built-stackquill-my-journey-from-developer-to-product-builder-4bdh)
